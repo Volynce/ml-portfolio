@@ -1,0 +1,6 @@
+[submodule "credit_classifier"]
+	path = credit_classifier
+	url = https://github.com/Volynce/credit_classifier.git
+[submodule "bank_segmentation_clustering_methods"]
+	path = bank_segmentation_clustering_methods
+	url = https://github.com/Volynce/bank_segmentation_clustering_methods.git
