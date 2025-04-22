@@ -4,3 +4,6 @@
 [submodule "bank_segmentation_clustering_methods"]
 	path = bank_segmentation_clustering_methods
 	url = https://github.com/Volynce/bank_segmentation_clustering_methods.git
+[submodule "wine_quality_regression_analysis"]
+	path = wine_quality_regression_analysis
+	url = https://github.com/Volynce/wine_quality_regression_analysis.git
