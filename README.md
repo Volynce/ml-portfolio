@@ -14,6 +14,6 @@
 
 3. **[RAG for book](.)**(in process):
 
-4. **[Wine Quality Regression Analysis](https://github.com/Volynce/wine_quality_regression_analysis/tree/70579c8d731a0f07c4c7f6b327a236d7aaca9ce7):
+4. **[Wine Quality Regression Analysis](https://github.com/Volynce/wine_quality_regression_analysis/tree/70579c8d731a0f07c4c7f6b327a236d7aaca9ce7)**:
 Проект направлен на анализ качества вина с использованием линейной регрессии на основе физико-химических свойств винных сортов. Используются два датасета — для красного и белого вина. Процесс включает в себя предобработку данных, разведочный анализ, построение модели регрессии и визуализацию результатов.
 
