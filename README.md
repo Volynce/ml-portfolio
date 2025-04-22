@@ -10,7 +10,7 @@
 
 1. **[credit_classifier](https://github.com/Volynce/credit_classifier/tree/95a200d3cfe6310d5daba484dbd0d50dfac84cbc)**: Проект по классификации кредитных заявок. Логистическая регрессия. Используются методы машинного обучения для предсказания, одобрят ли заявку на кредит.
    
-2. ** [bank_segmentation_clustering_methods](https://github.com/Volynce/bank_segmentation_clustering_methods/tree/e90923737d3360d91cf49214dea7ddd04a132b48)**: Проект по сегментации клиентов банка с использованием методов кластеризации. Это поможет банку таргетировать маркетинговые кампании для различных сегментов клиентов.
+2. **[bank_segmentation_clustering_methods](https://github.com/Volynce/bank_segmentation_clustering_methods/tree/e90923737d3360d91cf49214dea7ddd04a132b48)**: Проект по сегментации клиентов банка с использованием методов кластеризации. Это поможет банку таргетировать маркетинговые кампании для различных сегментов клиентов.
 
 3. **[RAG for book](.)**(in process):
 
