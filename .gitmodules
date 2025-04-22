@@ -7,3 +7,6 @@
 [submodule "wine_quality_regression_analysis"]
 	path = wine_quality_regression_analysis
 	url = https://github.com/Volynce/wine_quality_regression_analysis.git
+[submodule "ml-portfolio/wine_quality_regression_analysis"]
+	path = ml-portfolio/wine_quality_regression_analysis
+	url = https://github.com/Volynce/wine_quality_regression_analysis.git
