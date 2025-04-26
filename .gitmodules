@@ -13,3 +13,6 @@
 [submodule "ml-portfolio/classification_models_ROC"]
 	path = ml-portfolio/classification_models_ROC
 	url = https://github.com/Volynce/classification_models_ROC.git
+[submodule "classification_models_ROC"]
+	path = classification_models_ROC
+	url = https://github.com/Volynce/classification_models_ROC.git
